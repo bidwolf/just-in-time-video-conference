@@ -1,0 +1,12 @@
+{
+  "name": "rtcapp",
+  "version": "1.0.0",
+  "workspaces": [
+    "packages/*"
+  ],
+  "repository": "git@github.com:bidwolf/RTCApp.git",
+  "author": "Henrique de Paula Rodrigues",
+  "license": "MIT",
+  "private": true,
+  "packageManager": "yarn@4.3.1"
+}

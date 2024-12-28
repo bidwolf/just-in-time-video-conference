@@ -1,0 +1,11 @@
+{
+  "name": "@rtcapp/utils",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "author": "Henrique de Paula Rodrigues",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "typescript": "^5.5.2"
+  }
+}

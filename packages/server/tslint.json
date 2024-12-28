@@ -1,0 +1,12 @@
+{
+  "extends": "tslint:recommended",
+  "defaultSeverity":"error",
+  "rules":{
+    "no-console":{
+      "severity":"warning",
+      "options":["log","error","warn","info","time","timeEnd","trace"]
+    }
+  },
+  "jsRules":""
+
+}
